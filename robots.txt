@@ -1,1 +1,3 @@
-disallow: /index
+User-agent: *
+Disallow: 
+Sitemap: https://magnoliamckenziepremiumcleaning.org/sitemap.xml
